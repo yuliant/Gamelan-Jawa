@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Gamelan Jawa</string>
+
+    <array name="data_gambar">
+        <item>@drawable/ic_launcher_background</item>
+    </array>
+
+    <array name="data_banner">
+        <item>@drawable/ic_launcher_background</item>
+    </array>
+
+    <string-array name="data_judul">
+        <item>Judul gamelan</item>
+    </string-array>
+
+    <string-array name="data_deskripsi">
+        <item>ini deskripys coy</item>
+    </string-array>
+
+</resources>
